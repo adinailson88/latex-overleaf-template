@@ -27,4 +27,5 @@ jobs:
         with:
           name: documento-pdf
           path: main.pdf
+          retention-days: 14
 
